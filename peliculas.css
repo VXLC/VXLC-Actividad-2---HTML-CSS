@@ -1,0 +1,73 @@
+.flexbox{
+    display: flex;
+    border: 2px solid yellow;
+    background-color: greenyellow;
+    padding: 15px;
+    width: 105%;
+}
+#blanco{
+    padding: 55px;
+    margin: 50px;
+    background-color: white;
+}
+#rosado{
+    padding: 55px;
+    margin: 50px;
+    background-color: pink;
+}
+#celeste{
+    padding: 55px;
+    margin: 50px;
+    background-color: skyblue;
+}
+#cuatro{
+    padding: 55px;
+    margin: 50px;
+    background-color: skyblue;
+}
+#cinco{
+    padding: 55px;
+    margin: 50px;
+    background-color: skyblue;
+}
+
+.pelis{
+    display: flex;
+    border: 2px solid red;
+    background-color: greenyellow;
+    padding: 15px;
+    width: 105%;
+}
+#seis{
+    padding: 55px;
+    margin: 50px;
+    background-color: white;
+}
+#siete{
+    padding: 55px;
+    margin: 50px;
+    background-color: pink;
+}
+#ocho{
+    padding: 55px;
+    margin: 50px;
+    background-color: skyblue;
+}
+#nueve{
+    padding: 55px;
+    margin: 50px;
+    background-color: skyblue;
+}
+#diez{
+    padding: 55px;
+    margin: 50px;
+    background-color: skyblue;
+}
+
+body{
+    background-color: rgb(182, 182, 182);
+}
+#Regreso{
+    text-align: center;
+	
+}
